@@ -12,7 +12,7 @@ class PostList extends Component {
           avatar:
             "https://emotioncard.com.br/wp-content/uploads/2017/08/BB-S5B-Walt-590.jpg.webp"
         },
-        publishedDate: "2019-10-12",
+        publishedDate: "05 Dec 2019",
         content: "Say my name!",
         comments: [
           {
@@ -44,7 +44,7 @@ class PostList extends Component {
           avatar:
             "https://vignette.wikia.nocookie.net/breakingbad/images/9/9f/Season_4_-_Mike.jpg/revision/latest/scale-to-width-down/180?cb=20110620221523"
         },
-        publishedDate: "2019-10-13",
+        publishedDate: "05 Dec 2019",
         content:
           "You are not the guy. You're not capable of being the guy. I had a guy, but now I don't. You are not the guy.",
         comments: [
