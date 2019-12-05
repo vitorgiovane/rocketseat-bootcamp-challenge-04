@@ -1,7 +1,15 @@
 import React from "react"
+import "../assets/App/App.css"
+import Header from "./Header"
+import PostList from "./PostList"
 
 function App() {
-  return <h1>Hello, World!</h1>
+  return (
+    <>
+      <Header />
+      <PostList />
+    </>
+  )
 }
 
 export default App
